@@ -1,0 +1,14 @@
+[Instagram]
+usuario= rtest1235	
+contra= testeo1
+
+[Posteo]
+caption="Aca va la descripcion"
+
+[Horarios]
+1=do-12:09-laimagen.jpg
+2=ju-17:59-laimagen.jpg
+
+[Config]
+runonwindowsstartup=0
+
