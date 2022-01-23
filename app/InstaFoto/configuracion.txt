@@ -1,6 +1,6 @@
 [Instagram]
-usuario= rtest1235	
-contra= testeo1
+usuario= "Ingrese usuario"	
+contra= "Ingrese contraseña"
 
 [Posteo]
 caption="Aca va la descripcion"
